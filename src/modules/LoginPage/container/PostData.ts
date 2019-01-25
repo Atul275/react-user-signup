@@ -1,7 +1,7 @@
 import 'src/app/client/api';
 
 export function PostData(type: any, userData: any) {
-  const api: string = 'https://http://192.168.31.129/payroll/';
+  const api: string = 'any api url';// but it's not connecting
 
   return new Promise(
     (resolve, reject) => {
