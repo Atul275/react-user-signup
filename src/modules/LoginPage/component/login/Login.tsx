@@ -43,8 +43,8 @@ export default class Login extends React.Component<UserLogin, any> {
             <div>
                 <div className='row justify-content-center'>
                     <div className='jumbotron bg-primary text-white'>
-                        <b className='display-4'>SZIGONY</b>
-                        <p>Intranet Application Systems</p>
+                        <b className='display-4'>Hello</b>
+                        <p>World.!</p>
                     </div>
                 </div>
 
